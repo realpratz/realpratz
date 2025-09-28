@@ -1,4 +1,4 @@
-## Pratyush Priyadarshi 👋
+## It's me Pratyush Priyadarshi! 👋
 
 <!--
 **realpratz/realpratz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
